@@ -159,7 +159,6 @@ let
     license = lib.licenses.unfree;
     maintainers = with lib.maintainers; [
       artturin
-      donteatoreo
       infinidoge
       jopejoe1
       Scrumplex
